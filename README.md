@@ -1,4 +1,4 @@
-# KOPS WITH TERRAFROM
+# KOPS WITH TERRAFORM 
 
 Do you guys build Kubernetes from the scratch – yes , used tools Kubeadmin or KOPS 
 kops -kubernetes operations – is used to interact with aws on kuberenetes level 

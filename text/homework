@@ -1,0 +1,32 @@
+HOME WORK BEFORE SEPTEMBER 3 
+
+
+CREATE QA AND PROD 
+
+CLUSTER AND SAVE- THEY WAY WE CAN PULL QA PROD BY OUR OWN 
+WE make sure how many nodes needs to be created, how many master nodes needs to be created which security gruops needs to be open , 
+test one 16 
+functioning 
+to make 
+
+
+
+
+
+
+sec group master, node, bastion
+ssh key
+ami
+bastion host size
+bastion host count 
+bastion host ami
+bastion host sec group (elb) (enable per ip)
+tagging 
+ name 
+   created_by
+   env
+   dept
+   count   #add application artemis to a tag 
+
+
+everything from scrach for qa and prod 
